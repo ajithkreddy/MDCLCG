@@ -1,23 +1,3 @@
-`timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    21:18:28 02/16/2021 
-// Design Name: 
-// Module Name:    Bit_Addition_Logic 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
 module Bit_addition_logic(Si1, cyi, a, b, c);
 output [63:0] Si1, cyi;
 input [63:0] a, b, c;
